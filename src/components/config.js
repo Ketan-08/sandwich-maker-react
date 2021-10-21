@@ -3,7 +3,7 @@ const { Schema } = mongoose
 
 
 
-export const putData = () => {
+export const putData = (array) => {
 
   
 
@@ -22,9 +22,13 @@ export const putData = () => {
 
     const Info = mongoose.model('items', infoSchema);
 
-    let newItem = new Info({ Name: "Anshuman Bot" });
-    console.log(newItem.Name);
-    newItem.save();
+   
+     
+      let newItem = new Info({array});
+      console.log(newItem.Name);
+      newItem.save();
+     
+   
 
 
   }
