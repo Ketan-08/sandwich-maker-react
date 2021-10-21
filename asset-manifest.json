@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sandwich-maker-react/static/css/main.8d450ceb.chunk.css",
+    "main.js": "/sandwich-maker-react/static/js/main.6af88a37.chunk.js",
+    "main.js.map": "/sandwich-maker-react/static/js/main.6af88a37.chunk.js.map",
+    "runtime-main.js": "/sandwich-maker-react/static/js/runtime-main.f27ff26c.js",
+    "runtime-main.js.map": "/sandwich-maker-react/static/js/runtime-main.f27ff26c.js.map",
+    "static/js/2.26ba4047.chunk.js": "/sandwich-maker-react/static/js/2.26ba4047.chunk.js",
+    "static/js/2.26ba4047.chunk.js.map": "/sandwich-maker-react/static/js/2.26ba4047.chunk.js.map",
+    "index.html": "/sandwich-maker-react/index.html",
+    "static/css/main.8d450ceb.chunk.css.map": "/sandwich-maker-react/static/css/main.8d450ceb.chunk.css.map",
+    "static/js/2.26ba4047.chunk.js.LICENSE.txt": "/sandwich-maker-react/static/js/2.26ba4047.chunk.js.LICENSE.txt",
+    "static/media/bread.da38fad4.jfif": "/sandwich-maker-react/static/media/bread.da38fad4.jfif",
+    "static/media/cheese.159acaec.jfif": "/sandwich-maker-react/static/media/cheese.159acaec.jfif",
+    "static/media/cucumber.c879f278.jfif": "/sandwich-maker-react/static/media/cucumber.c879f278.jfif",
+    "static/media/tomato.f7569800.jfif": "/sandwich-maker-react/static/media/tomato.f7569800.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f27ff26c.js",
+    "static/js/2.26ba4047.chunk.js",
+    "static/css/main.8d450ceb.chunk.css",
+    "static/js/main.6af88a37.chunk.js"
+  ]
+}
